@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Softwares>
+  <Software>
+    <Title>Visual Studio</Title>
+    <Version>2010</Version>
+    <MsiorZip>zip</MsiorZip>
+    <File>C:\Vlab\Softwares\Net\VS2010.zip</File>
+  </Software>
+</Softwares>

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<Softwares>
+  <Software>
+    <Title>JDK</Title>
+    <Version>1.8</Version>
+    <MsiorZip>exe</MsiorZip>
+    <File>C:\Vlab\Softwares\Java\jdk-8u60-windows-x64.exe</File>
+  </Software>
+  <Software>
+    <Title>Tomcat</Title>
+    <Version>8.26</Version>
+    <MsiorZip>zip</MsiorZip>
+    <File>C:\Vlab\Softwares\Java\apache-tomcat-8.0.26-windows-x64.zip</File>
+  </Software>
+  <Software>
+    <Title>Eclipse</Title>
+    <Version>Galileo</Version>
+    <MsiorZip>zip</MsiorZip>
+    <File>C:\Vlab\Softwares\Java\eclipse-jee-galileo-SR2-win32.zip</File>
+  </Software>
+</Softwares>
